@@ -1,0 +1,10 @@
+C:\haskell\hrt\FSharp\ComonadicBuilder\bin\Debug\netcoreapp2.1\ComonadicBuilder.deps.json
+C:\haskell\hrt\FSharp\ComonadicBuilder\bin\Debug\netcoreapp2.1\ComonadicBuilder.runtimeconfig.json
+C:\haskell\hrt\FSharp\ComonadicBuilder\bin\Debug\netcoreapp2.1\ComonadicBuilder.runtimeconfig.dev.json
+C:\haskell\hrt\FSharp\ComonadicBuilder\bin\Debug\netcoreapp2.1\ComonadicBuilder.dll
+C:\haskell\hrt\FSharp\ComonadicBuilder\obj\Debug\netcoreapp2.1\ComonadicBuilder.fsprojAssemblyReference.cache
+C:\haskell\hrt\FSharp\ComonadicBuilder\obj\Debug\netcoreapp2.1\ComonadicBuilder.AssemblyInfoInputs.cache
+C:\haskell\hrt\FSharp\ComonadicBuilder\obj\Debug\netcoreapp2.1\ComonadicBuilder.AssemblyInfo.fs
+C:\haskell\hrt\FSharp\ComonadicBuilder\bin\Debug\netcoreapp2.1\ComonadicBuilder.pdb
+C:\haskell\hrt\FSharp\ComonadicBuilder\obj\Debug\netcoreapp2.1\ComonadicBuilder.dll
+C:\haskell\hrt\FSharp\ComonadicBuilder\obj\Debug\netcoreapp2.1\ComonadicBuilder.pdb
